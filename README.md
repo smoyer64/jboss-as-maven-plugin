@@ -8,6 +8,7 @@ A Maven plug-in for JBoss Application Server 7. This plugin allows you to:
   * Deploy and undeploy artifacts
   * Execute CLI commands
   * Run a standalone server within Maven
+  * Start and stop standalone server within Maven.
 
 Plugin documentation is at https://docs.jboss.org/jbossas/7/plugins/maven/latest/
 
